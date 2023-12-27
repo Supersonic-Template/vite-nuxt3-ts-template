@@ -1,8 +1,19 @@
-# Senong's frontend technology
+# vite-nuxt3-ts-template
 
-# 1. Part
+# 1.clone
 
-- CSS
-- Utils/Hooks
-- Component UI
-- Canvas
+```bash
+git clone ...
+```
+
+# 2.install
+
+```bash
+pnpm install
+```
+
+# 3.run
+
+```bash
+pnpm run dev
+```
